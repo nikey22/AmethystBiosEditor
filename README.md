@@ -1,5 +1,5 @@
 # AmethystBiosEditor v1.0
-
+![image](https://github.com/nikey22/AmethystBiosEditor/blob/main/images/AmethystBiosEditor-TITLE.png)
 
 ### v1.0
 - Updated GUI
